@@ -2,4 +2,4 @@
 
 This library is generated with [`k8s`](https://github.com/jsonnet-libs/k8s).
 
-[Docs](https://jsonnet-libs.github.io/grafana-agent-libsonnet)
+- [0.20](0.20/README.md)
