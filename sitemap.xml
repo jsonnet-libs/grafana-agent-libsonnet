@@ -2,122 +2,122 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://jsonnet-libs.github.io/grafana-agent-libsonnet/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/grafana-agent-libsonnet/0.20/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/grafana-agent-libsonnet/0.20/monitoring/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/grafana-agent-libsonnet/0.20/monitoring/v1alpha1/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/grafana-agent-libsonnet/0.20/monitoring/v1alpha1/grafanaAgent/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/grafana-agent-libsonnet/0.20/monitoring/v1alpha1/logsInstance/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/grafana-agent-libsonnet/0.20/monitoring/v1alpha1/metricsInstance/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/grafana-agent-libsonnet/0.20/monitoring/v1alpha1/podLogs/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/grafana-agent-libsonnet/0.26/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/grafana-agent-libsonnet/0.26/monitoring/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/grafana-agent-libsonnet/0.26/monitoring/v1alpha1/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/grafana-agent-libsonnet/0.26/monitoring/v1alpha1/grafanaAgent/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/grafana-agent-libsonnet/0.26/monitoring/v1alpha1/integration/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/grafana-agent-libsonnet/0.26/monitoring/v1alpha1/logsInstance/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/grafana-agent-libsonnet/0.26/monitoring/v1alpha1/metricsInstance/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/grafana-agent-libsonnet/0.26/monitoring/v1alpha1/podLogs/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/grafana-agent-libsonnet/0.30/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/grafana-agent-libsonnet/0.30/monitoring/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/grafana-agent-libsonnet/0.30/monitoring/v1alpha1/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/grafana-agent-libsonnet/0.30/monitoring/v1alpha1/grafanaAgent/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/grafana-agent-libsonnet/0.30/monitoring/v1alpha1/integration/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/grafana-agent-libsonnet/0.30/monitoring/v1alpha1/logsInstance/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/grafana-agent-libsonnet/0.30/monitoring/v1alpha1/metricsInstance/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/grafana-agent-libsonnet/0.30/monitoring/v1alpha1/podLogs/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
